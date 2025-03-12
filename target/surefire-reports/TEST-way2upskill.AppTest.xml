@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="way2upskill.AppTest" time="0.005" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="way2upskill.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.14+7-Ubuntu-124.04"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/home/ubuntu/javacode"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/ubuntu/sample/javacode"/>
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -13,7 +13,7 @@
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/ubuntu/javacode"/>
+    <property name="user.dir" value="/home/ubuntu/sample/javacode"/>
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="17.0.14+7-Ubuntu-124.04"/>
     <property name="os.arch" value="amd64"/>
@@ -30,7 +30,7 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.8.0-1021-aws"/>
+    <property name="os.version" value="6.8.0-1024-aws"/>
     <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
     <property name="user.home" value="/home/ubuntu"/>
     <property name="user.timezone" value="Etc/UTC"/>
@@ -40,7 +40,7 @@
     <property name="java.class.path" value="/usr/share/maven/boot/plexus-classworlds-2.x.jar"/>
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean package"/>
     <property name="java.home" value="/usr/lib/jvm/java-17-openjdk-amd64"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -58,5 +58,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
-  <testcase classname="way2upskill.AppTest" name="testApp" time="0.005"/>
+  <testcase classname="way2upskill.AppTest" name="testApp" time="0.002"/>
 </testsuite>
